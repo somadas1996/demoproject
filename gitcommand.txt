@@ -1,0 +1,10 @@
+Commands for git demo project
+
+git --version ----> current installed version of git
+git init ---------> initialized the git repositories and if repositary already exists then it reinitialized it.
+git status -------> check the status of resporatory with index
+git add<directory> ----------> add update the index using the current content found in th working tree and then prepare the contents in the staging area for next commit. 
+git add -A -------> add all the files by indexing them
+git add *  
+
+git diff ----> to compare the files/directories for modifications
